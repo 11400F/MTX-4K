@@ -20,9 +20,9 @@
 
 先在[这个位置](https://github.com/11400F/MTX-4K/releases)下载该程序的最新版本，名称为 `R70731-Nonsense_boxed.exe`。下载完之后拖到你想运行的地方。
 
-然后在这个地方新建一个 `song` 文件夹。如果想要添加谱面就现在 `song` 文件夹内新建一个文件夹，这个文件夹随便命名。然后把你想导入的谱面的 `.mc` 或者 `.json` 放入。然后再把音频 `.ogg` 文件放入。
+然后点击 Import 导入 mcz 或 zip 文件以添加谱面。
 
-[这里是自制谱面的下载地址](https://github.com/11400F/MTX-4K/releases/tag/beatmaps)，可以在这里下载一些谱面体验。
+[这里是 MTX 自制谱面的下载地址](https://github.com/11400F/MTX-4K/releases/tag/beatmaps)，可以在这里下载一些谱面体验。
 
 ### 3. 游玩导览
 
